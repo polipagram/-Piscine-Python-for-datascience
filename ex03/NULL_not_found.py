@@ -15,8 +15,6 @@ def NULL_not_found(object: any) -> int:
         print("type not found")
         return 1
     return 0
-
-
 #Nothing = None
 #Garlic = float("NaN")
 #Zero = 0
